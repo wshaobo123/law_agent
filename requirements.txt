@@ -1,0 +1,21 @@
+# langchain框架
+langchain
+langgraph
+langchain_community
+langchain_openai
+langchain_huggingface
+
+# reranker模型库
+sentence-transformers
+
+# milvus向量数据库
+pymilvus
+
+# Web_Search工具
+tavily-python
+
+# WebUI库
+streamlit
+
+# 读取环境变量
+python-dotenv
