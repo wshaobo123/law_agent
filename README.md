@@ -1,5 +1,5 @@
 # law_agent
-基于 LangGraph 的动态法律分析智能体
+基于 LangGraph 的动态法律分析智能体，主要知识库是民法典
 ## 将.env.example文件复制一份重命名为.env, 将里面的APIKEY改成自己的
 ## 使用docker运行milvus服务，启动Milvus:  
 docker-compose -f milvus-standalone-docker-compose.yml up -d
